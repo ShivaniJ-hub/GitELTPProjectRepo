@@ -12,3 +12,5 @@ Change 5: -> Made by teammate for WI4
 
 Change 6: -> Bug2 fix
 
+Change 7: -> Rebase by teammate for WI5-to test rebase merging without conflict
+
