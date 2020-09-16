@@ -14,3 +14,4 @@ Change 6: -> Bug2 fix
 
 Change 7: -> Rebase by teammate for WI5-to test rebase merging without conflict
 
+Change 8 : -> to test Stash for half done work is available
